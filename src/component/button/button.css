@@ -1,0 +1,16 @@
+.button{
+    font-family: "Poppins";
+    font-size: 18px;
+    font-weight: 600;
+    color:#34C94B;
+    align-items: center;
+    background-color: #121212;
+    width: 170px;
+    height: 47px;
+    padding: 10px 16px 10px 16px;
+    border-radius: 12px;
+    border:1px;
+    gap:10px;
+    cursor: pointer;
+    margin-right: 32px;
+}

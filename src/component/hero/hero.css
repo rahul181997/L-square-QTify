@@ -1,0 +1,32 @@
+.hero{
+    width: 100%;
+    height: 270px;
+    background-color: #121212;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bannner{
+    width: 799px;
+    height: 212px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.text{
+    font-size: 32px;
+    font-weight: 600;
+}
+.text p {
+    margin: 0px;
+}
+
+.heroImage{
+    width: 212px;
+    height: 212px;
+}
